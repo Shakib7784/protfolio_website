@@ -1,0 +1,44 @@
+body{
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+}
+h1
+{
+    font-size: 50px;
+}
+#span1
+{
+    color: orange;
+}
+.container
+{
+    display: flex;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.half_width
+{
+    width: 100%;
+    padding-left: 5%;
+}
+.half_width p
+{
+    text-align: justify;
+}
+.half_width img
+{
+    width: 80%;
+    padding-top: 10px;
+}
+#link1
+{
+    text-decoration: none;
+    background-image: linear-gradient(yellow, orange);
+   padding: 10px 30px;
+   border-radius: 5px;
+}
+
